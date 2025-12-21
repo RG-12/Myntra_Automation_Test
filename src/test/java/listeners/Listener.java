@@ -23,7 +23,7 @@ public class Listener implements TestWatcher {
     public void testSuccessful(ExtensionContext context) {
         TestWatcher.super.testSuccessful(context);
         System.out.println("Test was successfull!");
-        log.info("Context: " + context);
+        log.info("Context of Success: " + context);
         System.out.println("----------------");
     }
 
@@ -43,3 +43,4 @@ public class Listener implements TestWatcher {
         System.out.println("----------------");
     }
 }
+
