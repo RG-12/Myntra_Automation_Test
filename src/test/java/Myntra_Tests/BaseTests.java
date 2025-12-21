@@ -204,16 +204,7 @@ public class BaseTests {
         System.out.println("Quantity: " + cartProductQuantity);
         Assertions.assertEquals("1", cartProductQuantity,  "Test Failed");
 
-
     }
 
-
-//    @AfterAll
-//    public void endTest(){
-//
-//        driver.close();
-//        driver.quit();
-//    }
-
-
 }
+
