@@ -1,0 +1,8 @@
+
+[INFO ] 2025-12-21 21:51:21.730 [main] Listener - Test was successfull! Context: org.junit.jupiter.engine.descriptor.MethodExtensionContext@2ec3633f
+[INFO ] 2025-12-21 21:58:37.636 [main] Listener -  Context: org.junit.jupiter.engine.descriptor.MethodExtensionContext@1d5d5621
+[INFO ] 2025-12-21 22:00:21.610 [main] Listener - Context: org.junit.jupiter.engine.descriptor.MethodExtensionContext@43a0a32d
+[INFO ] 2025-12-21 22:00:28.445 [main] Listener - Context: org.junit.jupiter.engine.descriptor.MethodExtensionContext@c3edf4c
+[INFO ] 2025-12-21 22:00:35.526 [main] Listener - Context: org.junit.jupiter.engine.descriptor.MethodExtensionContext@4b039c6d
+[INFO ] 2025-12-21 22:00:42.426 [main] Listener - Context: org.junit.jupiter.engine.descriptor.MethodExtensionContext@68565bc7
+[INFO ] 2025-12-21 22:00:49.301 [main] Listener - Context: org.junit.jupiter.engine.descriptor.MethodExtensionContext@5d342959
