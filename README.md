@@ -1,1 +1,6 @@
-# Myntra_Automation_Test
+# Myntra Automation Test
+
+This is an automation test to verify whether the items added to the cart are same as the one in selection page.
+
+Language: Java
+Tools and Dependencies: Maven Selenium, JUnit 5, Cromedriver, Log4j
