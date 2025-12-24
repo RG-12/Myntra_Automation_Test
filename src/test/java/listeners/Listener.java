@@ -15,7 +15,7 @@ public class Listener implements TestWatcher {
     public void testDisabled(ExtensionContext context, Optional<String> reason) {
         TestWatcher.super.testDisabled(context, reason);
         System.out.println("Test was disabled.");
-        log.info("Reason of Disabling: " + reason + " Context: " + context);
+        log.info("Reason of Disabling: " + reason + " Context: " + context.getTestMethod());
         System.out.println("----------------");
     }
 
@@ -23,7 +23,7 @@ public class Listener implements TestWatcher {
     public void testSuccessful(ExtensionContext context) {
         TestWatcher.super.testSuccessful(context);
         System.out.println("Test was successfull!");
-        log.info("Context of Success: " + context);
+        log.info("Context: " + context.getTestMethod());
         System.out.println("----------------");
     }
 
@@ -31,7 +31,7 @@ public class Listener implements TestWatcher {
     public void testAborted(ExtensionContext context, @Nullable Throwable cause) {
         TestWatcher.super.testAborted(context, cause);
         System.out.println("Test was aborted.");
-        log.info("Abortion Cause: " + cause + " Context: " + context);
+        log.info("Abortion Cause: " + cause.getMessage() + " Context: " + context.getTestMethod());
         System.out.println("----------------");
     }
 
@@ -39,8 +39,9 @@ public class Listener implements TestWatcher {
     public void testFailed(ExtensionContext context, @Nullable Throwable cause) {
         TestWatcher.super.testFailed(context, cause);
         System.out.println("Test failed.");
-        log.info("Failure Cause: " + cause + " Context: " + context);
+        log.info("Failure Cause: " + cause.getMessage() + " Context: " + context.getTestMethod());
         System.out.println("----------------");
     }
 }
+
 
