@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51a6cdd7-b238-4cde-9035-22ca72b7c07c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="36yvSSYHHTeyh39PxgYImRp0vCV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Myntra_Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BaseTests.Case1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BaseTests.Case2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BaseTests.Case3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BaseTests.Case4.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BaseTests.Case5.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BaseTests.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;OverrideImplement.combined&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rajiv/IdeaProjects/Myntra_Test/src/main/java/resources&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rajiv\IdeaProjects\Myntra_Test\src\main\java\resources" />
+      <recent name="C:\Users\rajiv\IdeaProjects\Myntra_Test\src\main\resources" />
+      <recent name="C:\Users\rajiv\IdeaProjects\Myntra_Test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rajiv\IdeaProjects\Myntra_Test\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BaseTests.Case1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Myntra_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Myntra_Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Myntra_Tests" />
+      <option name="MAIN_CLASS_NAME" value="Myntra_Tests.BaseTests" />
+      <option name="METHOD_NAME" value="Case1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BaseTests.Case1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51a6cdd7-b238-4cde-9035-22ca72b7c07c" name="Changes" comment="" />
+      <created>1765991627510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765991627510</updated>
+    </task>
+    <servers />
+  </component>
+</project>
